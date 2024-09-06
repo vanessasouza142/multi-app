@@ -1,6 +1,7 @@
 ## Descrição
 Atividade 5 - Melhorias do Código Front-End de um Multi-app
-Atividade proposta pelo Curso de Formação em Desenvolvimento Web FullStack da +PraTi
+
+Atividade proposta pelo Curso de Formação em Desenvolvimento Web FullStack Júnior da +PraTi
 
 ## Tecnologias Utilizadas:
 - React + Vite
